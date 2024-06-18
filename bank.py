@@ -37,4 +37,4 @@ account1.transfer(30, account2)
 print(account1.get_balance())  # Expected output: 20
 print(account2.get_balance())  # Expected output: 30
 
-account1.withdraw(100)
+account1.withdraw(90)
